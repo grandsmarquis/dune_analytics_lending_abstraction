@@ -35,7 +35,7 @@ CREATE TABLE lending.repays
     "evt_index" integer
 );
 
-CREATE TABLE lending.add_collateral
+CREATE TABLE lending.collateral_adds
 (
     "block_number" numeric NOT NULL,
     "block_time" timestamptz NOT NULL,
@@ -51,7 +51,7 @@ CREATE TABLE lending.add_collateral
     "evt_index" integer
 );
 
-CREATE TABLE lending.add_collateral
+CREATE TABLE lending.collateral_redeems
 (
     "block_number" numeric NOT NULL,
     "block_time" timestamptz NOT NULL,
