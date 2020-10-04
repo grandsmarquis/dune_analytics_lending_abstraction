@@ -1,7 +1,11 @@
 --Current supports
 -- Aave
 -- Compound
--- MakerDAO
+-- MakerDAO 
+
+
+--Useful links 
+--generate list of collaterals
 
 CREATE TABLE lending.borrows
 (
