@@ -21,4 +21,11 @@
  * For liquidations: https://explore.duneanalytics.com/dashboard/liquidation-success-rate
  
  
+ ## TODO 
+ 
+ * Complete events for MakerDAO (add/remove liquidity)
+ * Add table for liquidation
+ * Add liquidation for all projects
+ 
+ 
  
